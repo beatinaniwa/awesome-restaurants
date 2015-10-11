@@ -2,7 +2,7 @@
 
 A curated list of awesome restaurants. Inspired by [sjntn/meiten](https://github.com/sjntn/meiten).
 
-If you want to contribute to this list (please do), send me a pull request to `RECOMMEND.md` or contact me [@beatinaniwa](https://twitter.com/beatinaniwa)
+If you want to contribute to this list (please do), send me a pull request to [RECOMMEND.md](https://github.com/beatinaniwa/awesome-restaurants/blob/master/RECOMMEND.md) or contact me [@beatinaniwa](https://twitter.com/beatinaniwa)
 
 - - -
 
