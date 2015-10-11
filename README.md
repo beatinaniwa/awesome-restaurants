@@ -111,6 +111,7 @@ If you want to contribute to this list (please do), send me a pull request to `R
 - [ ] [Parabola - 広尾](http://tabelog.com/tokyo/A1307/A130701/13158425/)
 - [ ] [アヒルストア - 代々木公園](http://tabelog.com/tokyo/A1318/A131810/13051357/)
 - [x] [ウグイス - 三軒茶屋](http://tabelog.com/tokyo/A1317/A131706/13021311/)
+- [x] [NZ BAR Wine Shop - 東大前](http://tabelog.com/tokyo/A1323/A132301/13159198/)
 
 ### 中華
 - [x] [中国家庭料理大連 - 三田](http://tabelog.com/tokyo/A1314/A131402/13004557/)
