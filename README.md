@@ -1,4 +1,4 @@
-# Awesome Restaurant: My favorite and wanna go restaurants
+# Awesome Restaurants: My favorite and wanna go restaurants
 
 A curated list of awesome restaurants. Inspired by [sjntn/meiten](https://github.com/sjntn/meiten).
 
