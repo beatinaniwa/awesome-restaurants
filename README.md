@@ -119,6 +119,8 @@ If you want to contribute to this list (please do), send me a pull request to `R
 
 ### ハンバーガー
 - [x] [マンチズ バーガー シャック - 芝公園](http://tabelog.com/tokyo/A1314/A131401/13121856/)
+- [x] [バーガーマニア 広尾店 - 広尾](http://tabelog.com/tokyo/A1307/A130703/13123717/)
+- [x] [RIGOLETTO BAR AND GRILL - 六本木](http://tabelog.com/tokyo/A1307/A130701/13049114/)
 
 ### ガストロノミー
 - [ ] [セララバアド - 代々木上原](http://tabelog.com/tokyo/A1318/A131811/13176914/)
