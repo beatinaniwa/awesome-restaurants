@@ -8,6 +8,6 @@
 - [カルネヤ - 牛込神楽坂](http://tabelog.com/tokyo/A1309/A130905/13045549/)
 
 ## ラーメン
-- [佐市 - 錦糸町](http://tabelog.com/tokyo/A1312/A131201/13147184/)
+- [佐市 - 錦糸町](http://tabelog.com/tokyo/A1312/A131201/13147184/) from [@kiyukuta](https://twitter.com/kiyukuta)
 
 ## その他
