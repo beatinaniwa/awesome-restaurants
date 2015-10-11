@@ -73,6 +73,7 @@ If you want to contribute to this list (please do), send me a pull request to `R
 - [ ] [眠庵 - 淡路町](http://tabelog.com/tokyo/A1310/A131002/13020841/)
 - [x] [おにやんま - 五反田](http://tabelog.com/tokyo/A1316/A131603/13111869/)
 - [ ] [和利道 - 池尻大橋](http://tabelog.com/tokyo/A1317/A131705/13096566/)
+- [ ] [佐市 - 錦糸町](http://tabelog.com/tokyo/A1312/A131201/13147184/)
 
 ### 肉
 - [x] [肉山 - 吉祥寺](http://tabelog.com/tokyo/A1320/A132001/13155313/)
