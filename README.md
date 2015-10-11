@@ -135,3 +135,16 @@ If you want to contribute to this list (please do), send me a pull request to `R
 - [x] [Rojiura Curry SAMURAI. 下北沢店 - 下北沢](http://tabelog.com/tokyo/A1318/A131802/13165636/)
 - [x] [カレーやさん LITTLE SHOP - 神泉](http://tabelog.com/tokyo/A1303/A130301/13008321/)
 - [ ] [米とサーカス - 高田馬場](http://tabelog.com/tokyo/A1305/A130503/13124219/)
+
+
+## 京都 (Kyoto)
+### 和食
+- [ ] [食堂 おがわ - 河原町](http://tabelog.com/kyoto/A2601/A260201/26013892/)
+- [x] [割烹 まとの - 祇園四条](http://tabelog.com/kyoto/A2601/A260301/26000391/)
+
+### 麺
+- [ ] [麺や高倉二条 - 丸太町](http://tabelog.com/kyoto/A2601/A260202/26003182/)
+
+### フレンチ
+- [ ] [フォーチュンガーデンキョウト - 京都市役所前](http://tabelog.com/kyoto/A2601/A260202/26020163/)
+
