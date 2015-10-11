@@ -130,6 +130,7 @@ If you want to contribute to this list (please do), send me a pull request to `R
 ### カフェ
 - [x] [茶洒 金田中 - 表参道](http://tabelog.com/tokyo/A1306/A130602/13154538/)
 - [x] [フォニックフープ - 新宿三丁目](http://tabelog.com/tokyo/A1304/A130401/13058373/)
+- [x] [エイトジュール - 下北沢](http://tabelog.com/tokyo/A1318/A131802/13157413/)
 
 ### その他
 - [x] [BABBO - 赤羽橋](http://tabelog.com/tokyo/A1314/A131402/13170423/)
