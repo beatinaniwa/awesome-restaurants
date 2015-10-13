@@ -151,3 +151,12 @@ If you want to contribute to this list (please do), send me a pull request to [R
 ### フレンチ
 - [ ] [フォーチュンガーデンキョウト - 京都市役所前](http://tabelog.com/kyoto/A2601/A260202/26020163/)
 
+
+## 石川 (Ishikawa)
+### 寿司
+- [x] [幸寿し 本店 - 七尾](http://tabelog.com/ishikawa/A1703/A170302/17000352/)
+
+
+## 熊本 (Kumamoto)
+### 鰻
+- [ ] [上村うなぎ屋 - 人吉温泉](http://tabelog.com/kumamoto/A4304/A430403/43000195/)
