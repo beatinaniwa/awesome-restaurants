@@ -55,6 +55,7 @@ If you want to contribute to this list (please do), send me a pull request to [R
 - [x] [ぬる燗 佐藤 - 六本木](http://tabelog.com/tokyo/A1307/A130701/13144930/)
 - [ ] [酒徒庵 - 四谷三丁目](http://tabelog.com/tokyo/A1309/A130903/13122438/)
 - [ ] [赤鬼 - 三軒茶屋](http://tabelog.com/tokyo/A1317/A131706/13001382/)
+- [ ] [麦酒庵 - 大塚](http://tabelog.com/tokyo/A1323/A132302/13122240/)
 
 ### ビール
 - [x] [クラフトヘッズ - 渋谷](http://tabelog.com/tokyo/A1306/A130601/13097775/)
@@ -90,6 +91,7 @@ If you want to contribute to this list (please do), send me a pull request to [R
 - [x] [大木屋 - 日暮里](http://tabelog.com/tokyo/A1311/A131105/13039494/)
 - [ ] [金竜山 - 白金高輪](http://tabelog.com/tokyo/A1316/A131602/13001625/)
 - [ ] [きらく亭 - 白金高輪](http://tabelog.com/tokyo/A1307/A130703/13007145/)
+- [ ] [ホルモン焼 婁熊東京 - 恵比寿](http://tabelog.com/tokyo/A1303/A130302/13132685/)
 
 ### イタリアン
 - [x] [ノック クッチーナ・ボナ・イタリアーナ - 六本木](http://tabelog.com/tokyo/A1307/A130701/13135551/)
